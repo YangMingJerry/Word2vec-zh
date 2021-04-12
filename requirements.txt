@@ -1,0 +1,9 @@
+dataclasses==0.8
+gensim==4.0.1
+jieba==0.42.1
+joblib==1.0.1
+numpy==1.19.5
+OpenCC==1.1.2
+scipy==1.5.4
+smart-open==5.0.0
+word2vec==0.11.1
